@@ -7,4 +7,4 @@ for  i in  range(5000):             #to do anything  5000 times
     # a=random.choice(name)         #if i want to send from choice
     pg.write("Ya Hamoooooo")        #what you need to write
     pg.press("enter")               #to press enter
-    time.sleep(0.5)                 #To stop 0.5 seconds
+    time.sleep(0.5)                 #To stop 0.5 second
